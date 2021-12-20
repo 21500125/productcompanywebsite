@@ -97,7 +97,7 @@ Publish the website in the given URL.
 2.PRODUCT PAGE
 
 
-<!DOCTYPE html>
+'''<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>EduSoft Private Limited</title>
@@ -213,7 +213,7 @@ Publish the website in the given URL.
       </div>
     </div>
   </body>
-</html>
+</html>'''
 
 
 3.PEOPLE PAGE
