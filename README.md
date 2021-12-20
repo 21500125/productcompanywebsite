@@ -36,7 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 1.HOME PAGE
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -93,11 +93,12 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 2.PRODUCT PAGE
 
 
-'''<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>EduSoft Private Limited</title>
@@ -213,8 +214,8 @@ Publish the website in the given URL.
       </div>
     </div>
   </body>
-</html>'''
-
+</html>
+```
 
 3.PEOPLE PAGE
 
@@ -301,10 +302,10 @@ Publish the website in the given URL.
             </div>
         </body>
         </html>
-
+```
 
 4.CONTACT PAGE
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -352,6 +353,7 @@ Publish the website in the given URL.
       </div>
       </body>
       </html>
+      ```
 ## OUTPUT:
 
 ### Home Page:
