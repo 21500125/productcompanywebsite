@@ -215,6 +215,7 @@ Publish the website in the given URL.
   </body>
 </html>
 
+
 3.PEOPLE PAGE
 
 <!DOCTYPE html>
