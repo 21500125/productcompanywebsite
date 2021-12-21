@@ -218,7 +218,7 @@ Publish the website in the given URL.
 ```
 
 3.PEOPLE PAGE
-
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -354,6 +354,7 @@ Publish the website in the given URL.
       </body>
       </html>
       ```
+```      
 ## OUTPUT:
 
 ### Home Page:
